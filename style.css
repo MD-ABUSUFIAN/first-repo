@@ -1,0 +1,98 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+.maindiv{
+    background-color: rgba(95, 94, 92, 0.199);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.firstdiv{
+    color: white;
+    background-color: teal;
+   
+    text-align: justify;
+    width: 600px;
+    
+    
+    margin: auto;
+   
+    border: 10px solid lawngreen;
+    border-radius: 70px;
+    padding: 30px;
+}
+.firstdiv h1{
+text-align: center;
+color: magenta;
+text-shadow:4px 4px rgba(255, 255, 255, 0.479);
+}
+.zerodiv{
+    text-align: center;
+    color: rgb(255, 0, 191);
+    margin-bottom: 10px;
+}
+
+
+.seconddiv{
+    background-color: tomato;
+    color: blue;
+    text-align: center;
+    text-align: justify;
+    border: 10px solid greenyellow;
+    border-radius: 70px;
+    margin: auto;
+    padding: 30px;
+    width: 600px;
+    margin-top: 10px;
+}
+.seconddiv h1{
+    text-align: center;
+    text-shadow: 3px 3px rgba(255, 255, 255, 0.486)
+}
+.span{
+    text-align: center;
+    color: rgb(0, 238, 159);
+    margin-bottom: 5px;
+}
+
+.thirddiv{
+    color: rgb(33, 36, 248);
+    background-color: springgreen;
+    
+    margin: auto;
+    margin-top: 10px;
+    border: 10px solid yellow;
+    border-radius: 70px;
+    padding: 30px;
+    width: 600px;
+}
+.rapper{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.rapper h1{
+    text-shadow: 3px 3px rgba(255, 255, 255, 0.815);
+}
+.forthdiv{
+    color: black;
+    background-color: silver;
+    text-align: center;
+    text-align: justify;
+    margin: auto;
+    margin-top: 10px;
+    border: 10px solid red;
+    border-radius: 70px;
+    padding: 30px;
+    width: 600px;
+}
+.rapper2{
+    text-align: center;
+    color: rgb(248, 252, 7);
+    font-weight: normal;
+}
+.rapper2 h1{
+text-shadow:3px 3px rgba(199, 2, 2, 0.548);
+}
